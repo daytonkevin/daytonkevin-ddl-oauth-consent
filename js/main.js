@@ -1,7 +1,7 @@
 /* ===================================================================
 
     Author          : Valid Theme
-    Template Name   : Anada - Data Science & Analytics Template
+    Template Name   : DDL - Data Science & Analytics Template
     Version         : 1.4
 
 * ================================================================= */
